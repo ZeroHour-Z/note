@@ -1,1 +1,1 @@
-my obsidian note repo
+obsidian note repo
